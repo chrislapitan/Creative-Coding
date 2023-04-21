@@ -8,7 +8,7 @@ function setup() {
   createCanvas(600, 600);
 
   for (let i = 0; i < numCells; i++) {
-    let x = random(140, 460); // Account for this.speed
+    let x = random(140, 460); // Accousssnt for this.speed
     let y = random(155, 445);
     if (i == 0) {
       cells.push(new Cell(x, y, true, random(25, 75), random(25, 75))); // First loop create bacteria cell (special cell)
