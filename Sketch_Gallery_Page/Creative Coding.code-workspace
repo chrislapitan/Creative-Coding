@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../../Downloads/sketchGallery_layoutStrategy"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Creative Coding"
+	}
+}
