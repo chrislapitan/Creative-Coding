@@ -7,7 +7,7 @@ h1{
 }
 
 .fullPage{
-    border: 3px solid blue;
+    /* border: 3px solid blue; */
     /* padding: 10px; */
 }
 
@@ -17,14 +17,14 @@ h1{
 }
 
 .fullWindow{
-    outline: 1px solid orange;
+    /* outline: 1px solid orange; */
     width: 100%;
     height: 100vh;
     overflow: hidden;
 }
 
 .halfWidth{
-    outline: 1px solid red;
+    /* outline: 1px solid red; */
     width: 50%;
     height: 100vh;
     display: inline-block;
@@ -33,7 +33,7 @@ h1{
 }
 
 .fullWidth{
-    outline: 1px solid red;
+    /* outline: 1px solid red; */
     width: 100%;
     height: 100vh;
     display: inline-block;
@@ -41,7 +41,7 @@ h1{
 }
 
 .main{
-    outline: 1px solid green;
+    /* outline: 1px solid green; */
     height: 100vh;
     width: 100%;
 }
@@ -177,7 +177,7 @@ vertical-align: baseline;
 }
 
 iframe{
-    outline: 1px solid yellow;
+    /* outline: 1px solid yellow; */
     width: 100%;
     height: 100vh;
 }
